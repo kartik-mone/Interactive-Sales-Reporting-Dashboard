@@ -1,6 +1,9 @@
 
 # Interactive Sales Reporting Dashboard (Excel)
 
+<img width="1224" height="633" alt="Screenshot 2026-02-01 222600" src="https://github.com/user-attachments/assets/5c5e760e-6d8b-4383-916e-d9aa9254b753" />
+
+
 ## Project Overview
 
 This project demonstrates the creation of an **interactive sales reporting dashboard using Microsoft Excel**, designed to support accurate reporting, structured data analysis, and efficient administrative decision-making. The dashboard is built using Pivot Tables, Pivot Charts, slicers, and timelines to enable dynamic exploration of sales data.
